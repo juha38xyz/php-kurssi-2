@@ -2,6 +2,14 @@
 
 class Calculator
 {
+    public array $numbers;
+
+    public function add(int $a, $b): int
+    {
+      
+
+       return $a+$b;
+    }
 
 }
 
