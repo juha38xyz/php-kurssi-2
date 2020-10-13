@@ -9,7 +9,7 @@ class User
     public string $name;
 
     /**
-     * User age
+     * User age ok
      * @var int
      */
     public int $age;
